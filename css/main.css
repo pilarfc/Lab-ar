@@ -1,4 +1,6 @@
-
+*::-webkit-input-placeholder {
+    color: white;
+} /* con este webkit se cambia el color del place holder*/
 
 #encabezado {
     background-color: white;
@@ -124,7 +126,7 @@ iframe {
 }
 
 #formulario-mapa {
-    margin-top: 25%;
+    margin-top: 20%;
 }
 
 #formulario-mapa > ul > li {
@@ -138,4 +140,19 @@ iframe {
 .input-mapa {
     background-color: #FFBF00;
     color: white;
+    border-radius: 10px;
+    width: 50%;
+    border-color: white;
+}
+
+#espaciado-shapes{
+    padding: 4%;
+}
+
+#texto-mapa{
+    margin-bottom: 10%;
+}
+
+input {
+    margin-bottom: 5%;
 }
