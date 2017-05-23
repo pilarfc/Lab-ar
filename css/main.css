@@ -1,0 +1,34 @@
+#encabezado {
+    background-color: white;
+    border-color: white;
+    height: 100%;
+    padding-top: 2%;
+    
+}
+
+.links-encabezado {
+   color: black !important;
+   font-size: 1.2em !important;
+}
+
+#seccion-taxi {
+  background-image: url("../img/taxi-editado.jpg");
+  background-size: cover; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 800px; 
+}
+
+#seccion-taxi > form > ul > li {
+    list-style: none;
+}
+
+#fondo-form {
+    background-color: #FFBF00;
+    width: 100%;
+    height: auto;
+    margin-left: 60%;
+    color: white; 
+}
