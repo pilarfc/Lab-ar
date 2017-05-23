@@ -177,5 +177,16 @@ input {
 }
 
 #iconos {
-    
+  margin-top: 65%;
+}
+
+.app-stores {
+    padding-top: 10%; 
+    height: 40%;
+    width: 40%;
+}
+
+
+.final {
+    margin: 5%;
 }
