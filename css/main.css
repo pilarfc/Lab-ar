@@ -16,7 +16,8 @@
 }
 
 #seccion-taxi {
-  background-image: url("../img/taxi-editado.jpg");
+  background-image: url("../img/taxi.jpg");
+  background-position: bottom;
   background-size: cover; 
   display: flex;
   align-items: center;
