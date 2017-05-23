@@ -95,8 +95,7 @@ hr {
 
 
 #fondo-form-conduce {
-    background-color: black;
-    opacity:  0.5;
+    background-color: rgba(0, 0, 0, 0.7);
     width: 100%;
     height: auto;
     margin-left: 60%;
