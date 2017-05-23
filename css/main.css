@@ -54,9 +54,11 @@ hr {
     height: 600px;
 }
 
-#borde-celular {
-    border-color: white; 
-     border: 1px solid; 
+#borde-iphone {
+    border-color: white !important; 
+    border-left-color: #FFBF00;
+    border: 2px solid; 
+    padding: 2%;
 }
 
 .iphone-centrado{
@@ -66,4 +68,13 @@ hr {
 
 .foto-iphone {
      margin-left: 13%;
+}
+
+#texto-iphone {
+    color: white; 
+    text-align: justify;
+}
+
+#texto-iphone > p {
+    font-size: 1em; 
 }
